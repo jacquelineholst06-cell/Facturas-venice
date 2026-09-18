@@ -1,0 +1,34 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1789652671685,
+      "tag": "0000_dizzy_black_bird",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1789653734945,
+      "tag": "0001_simple_sentry",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1789725001222,
+      "tag": "0002_worthless_the_professor",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1789735067048,
+      "tag": "0003_curly_miracleman",
+      "breakpoints": true
+    }
+  ]
+}
