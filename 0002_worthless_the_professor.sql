@@ -1,0 +1,1 @@
+ALTER TABLE `documents` ADD `tax_breakdown` text DEFAULT '[]' NOT NULL;
